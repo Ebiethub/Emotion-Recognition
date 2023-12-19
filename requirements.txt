@@ -1,5 +1,0 @@
-librosa
-numpy
-scikit_learn
-soundfile
-streamlit
